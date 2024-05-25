@@ -6,3 +6,5 @@ Introdução ao React com Vite
 - nome do projeto
 - Tecnologia React
 - Variante JavaScript
+- npm install
+
