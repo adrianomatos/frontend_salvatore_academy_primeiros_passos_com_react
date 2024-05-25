@@ -1,2 +1,2 @@
-# frontend_salvatore_academy_primeiros_passos_com_react
+# Frontend Salvatore Academy - Primeiros passos com react
 Introdução ao React com Vite
