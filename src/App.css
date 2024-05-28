@@ -1,0 +1,22 @@
+.card {
+  border: 1px solid red;
+  padding: 5px;
+  text-align: center;
+  width: 115px;
+}
+
+.card:hover{
+	background-color: blueviolet;
+	text-decoration: underline;
+	box-shadow: 2px 2px black;
+	/* Atraso na transição */
+	transition: all 0.15s ease-out; 
+	/* Movimentação */
+	translate: -3px -3px;
+}
+
+.card h1 {
+  color: blue;
+  font-size: 22px;
+	text-transform: uppercase;
+}
