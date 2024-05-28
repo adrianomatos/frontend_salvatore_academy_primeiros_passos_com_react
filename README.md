@@ -8,3 +8,5 @@ Introdução ao React com Vite
 - Variante JavaScript
 - npm install
 
+# TRANSFORMAÇÃO DO PROJETO TYPESCRIPT EM JAVASCRIPT
+<!-- npm run build -->
