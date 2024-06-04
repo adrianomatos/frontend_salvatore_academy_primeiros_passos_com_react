@@ -1,19 +1,25 @@
 import Card from "./components/Card/Card";
+import "./App.css";
 
 function App() {
   return (
     <>
-      <Card nome="Java" imagem="https://salvatore.academy/devmon/1_java.png" />
+      <div className="cards">
+        <Card
+          nome="Java"
+          imagem="https://salvatore.academy/devmon/1_java.png"
+        />
 
-      <Card
-        nome="Kotlin"
-        imagem="https://salvatore.academy/devmon/2_kotlin.png"
-      />
+        <Card
+          nome="Kotlin"
+          imagem="https://salvatore.academy/devmon/2_kotlin.png"
+        />
 
-      <Card
-        nome="Android"
-        imagem="https://salvatore.academy/devmon/3_android.png"
-      />
+        <Card
+          nome="Android"
+          imagem="https://salvatore.academy/devmon/3_android.png"
+        />
+      </div>
     </>
   );
 }
