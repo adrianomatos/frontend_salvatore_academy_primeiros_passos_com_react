@@ -8,5 +8,8 @@ Introdução ao React com Vite
 - Variante JavaScript
 - npm install
 
-# TRANSFORMAÇÃO DO PROJETO TYPESCRIPT EM JAVASCRIPT
+## TRANSFORMAÇÃO DO PROJETO TYPESCRIPT EM JAVASCRIPT
 <!-- npm run build -->
+
+## REACT
+- Props (Usado para criar Commponentes Dinâmicos). Ex: Quando preciso chamar vários cards mas com conteúdos diferentes
